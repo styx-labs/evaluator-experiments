@@ -1,0 +1,38 @@
+As a Founding Software Engineer at Serval, you'll play a pivotal role in shaping the future of our platform. You will be tasked with building foundational parts of our technology and your contributions will be key to defining the success of our product
+
+At Serval, we're building the AI platform for IT teams. Our goal is to take on legacy players like ServiceNow, a $230+ bn company, by building the platform for AI agents to resolve IT issues instead of humans.
+
+Serval automates the automation, using a natural language-to-code workflow builder and AI agents that discover and deliver automations for tedious IT workflows.
+
+Our mission is to free IT departments from the #helpdesk channel by creating the simplest way to automate employee onboarding/offboarding, software access management, and the long tail of employee requests. Long term, our vision extends to developing a universal workflow automation platform for all business functions.
+
+Serval was founded by product and engineering leaders from Verkada and is backed by industry-leading investors like First Round, General Catalyst, Alt Capital, and Box Group.
+
+responsibilities:
+- Work closely with our CTO to build our product from the ground up.
+- Be a champion for user experience, incorporating a deep understanding of our users to guide design decisions alongside the founding team
+- Set the foundational system architecture and select key technologies for the codebase
+- Help us build V1 of Serval and deliver on our technical and product roadmap
+- Help establish engineering best practices and standards within the team. Mentor junior engineers and contribute to a culture of technical excellence
+
+Recruiting advice:
+1. Elite, at this stage we're only interested in candidates that would have been in top 5% of Verkada, who has a very high bar. Generally that means some combination 2+ signals of excellence
+2. Top 10 undergrad in CS or Math/Physics
+3. Work experience / internships at competitive companies with very high talent bar (top startups like Ramp, OpenAI, Anthropic, Perplexity, Wiz, Verkada, Anduril, ScaleAI or competitive organizations like Citadel, Jane St)
+4. Early-stage startup (Series A or earlier with tier 1 investors) or founder (CTO) experience
+5. High slope, signs of extraordinary career progression (promotion or bigger scope, or bigger roles/better companies)
+6. Meaningful awards, recognition, etc.
+
+avoid traits:
+-Non-quantitative undergrad (i.e. coding bootcamp)
+-signs of career stagnation / slow growth (no promotion, non-competitive companies)
+-short stints - more than 3 <18 months, only big company experience
+-lack of interest in super early stage startup - it'tough and have to want it
+
+requirements:
+-Work experience / internships at competitive companies with very high talent bar
+-Product-facing (not internal tools or systems) or working with LLM applications
+-Top 10 undergrad in CS or Math/Physics/EE
+-Early-stage startup (Series A or earlier with tier 1 investors) or founder (CTO experience)
+-Experience building applied AI products
+-Experience with some of the technologies in our stack: Go, GRPC, Kubernetes, React, Typescript, AWS and Terraform
